@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26801.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetStandardLibrary", "src\NetStandardLibrary.csproj", "{462DB3BB-919E-4C52-8F68-5FFA7DE357F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFxLibrary", "src\NetFxLibrary.csproj", "{F74BC4FE-4D93-4148-9CCF-F9138BE0D96D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462DB3BB-919E-4C52-8F68-5FFA7DE357F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462DB3BB-919E-4C52-8F68-5FFA7DE357F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462DB3BB-919E-4C52-8F68-5FFA7DE357F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462DB3BB-919E-4C52-8F68-5FFA7DE357F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74BC4FE-4D93-4148-9CCF-F9138BE0D96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74BC4FE-4D93-4148-9CCF-F9138BE0D96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74BC4FE-4D93-4148-9CCF-F9138BE0D96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74BC4FE-4D93-4148-9CCF-F9138BE0D96D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B1605B-AB6E-4290-B518-335E27EDEBF9}
+	EndGlobalSection
+EndGlobal
